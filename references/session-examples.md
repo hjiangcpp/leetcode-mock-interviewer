@@ -14,7 +14,7 @@ Concrete examples of how each interview mode should flow, including exact interv
 > 3. Topic: sliding window — confirmed?
 > 4. Do you want hints enabled, or no hints?"
 
-User: "SWE, medium, sliding window, light hints."
+User: "SWE, medium, sliding window, yes to hints."
 
 ### Phase 2: Present Problem
 
