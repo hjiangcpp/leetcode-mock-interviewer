@@ -4,7 +4,7 @@ An [OpenClaw](https://github.com/openclaw/openclaw) skill that simulates realist
 
 ## What It Does
 
-- Presents one coding problem at a time, just like a real interview
+- Picks any LeetCode problem matching the candidate's topic and difficulty — not limited to a fixed list
 - Enforces a structured flow: clarify → brute force → complexity → optimize → code → follow-ups
 - Asks interviewer-style follow-up questions about edge cases, tradeoffs, and constraint changes
 - Delivers scored feedback (Communication, Problem-solving, Code quality) on a 1-5 scale with specific observations
@@ -53,7 +53,7 @@ Array, String, Hash Table, Two Pointers, Sliding Window, Stack, Queue, Linked Li
 .
 ├── SKILL.md                          # Core skill instructions
 └── references/
-    ├── problem-bank.md               # Curated problems by topic and difficulty
+    ├── problem-bank.md               # Example problems for inspiration (any LeetCode problem is valid)
     ├── interview-rubric.md           # 1-5 scoring criteria per category
     └── session-examples.md           # Example interview flows for each mode
 ```

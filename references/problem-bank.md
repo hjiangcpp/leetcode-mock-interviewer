@@ -1,6 +1,6 @@
 # Problem Bank
 
-Curated problems by topic and difficulty. Pick from this list or use it as inspiration for similar problems.
+Example problems by topic and difficulty for inspiration. This list is **not exhaustive** — any LeetCode problem is valid for mock interviews. Use these as a starting point when you need quick selection.
 
 ## Array
 
