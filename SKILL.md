@@ -41,7 +41,7 @@ Deliver exactly:
 
 Do NOT give hints, solution direction, or tag the problem with its algorithm category. Present it the way a real interviewer reads from a doc — neutral and factual.
 
-For problem selection by topic and difficulty, see [references/problem-bank.md](references/problem-bank.md).
+Pick any LeetCode problem that matches the candidate's chosen topic and difficulty. You are not limited to a fixed list — any LeetCode problem is fair game. For inspiration, see [references/problem-bank.md](references/problem-bank.md).
 
 ## Phase 3: Interview Loop
 
@@ -138,6 +138,6 @@ For detailed scoring criteria, see [references/interview-rubric.md](references/i
 
 ## Reference Files
 
-- [references/problem-bank.md](references/problem-bank.md) — curated problems by topic and difficulty, with selection strategy
+- [references/problem-bank.md](references/problem-bank.md) — example problems by topic and difficulty for inspiration (not exhaustive — any LeetCode problem is valid)
 - [references/interview-rubric.md](references/interview-rubric.md) — detailed 1-5 scoring criteria per category with common deductions
 - [references/session-examples.md](references/session-examples.md) — example interview flows for each mode
